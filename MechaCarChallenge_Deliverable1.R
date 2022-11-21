@@ -1,8 +1,8 @@
-# DELIVERABLE 1:
-
 # Import libraries
 library(dplyr)
 library(tidyverse)
+
+# DELIVERABLE 1:
 
 # Input Data
 mecha_mpg <- read.csv(file='./Data/MechaCar_mpg.csv',check.names=F,stringsAsFactors = F) 

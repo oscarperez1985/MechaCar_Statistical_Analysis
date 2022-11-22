@@ -32,7 +32,7 @@ The following is the list of the requested and the provided deliverable files fo
 - **[Deliverable 1 Snippets](./Output/Deliverable1/)**
 - **[Deliverable 2 Snippets](./Output/Deliverable2/)**
 - **[Deliverable 3 Snippets](./Output/Deliverable3/)**
-- **[Written Analysis](./README.md)**
+- **[Deliverable 4 Written Analysis](./README.md)**
 
 ## Results
 
